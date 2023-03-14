@@ -2,6 +2,7 @@
 
 A tongue-in-cheek list of helpful git aliases.
 
+- https://george.mand.is/2023/03/playful-aliases-for-your-gitconfig/
 
 |Alias|Git Command|
 |-----|------------|
@@ -22,3 +23,5 @@ A tongue-in-cheek list of helpful git aliases.
 |grafitti | tag|
 |ghosts | commit --allow-empty -m "BOO!"|
 |yoink | clone|
+
+PRs welcome!
