@@ -1,0 +1,18 @@
+[alias]	
+	breakstuff = branch
+	yolo = "!git add -A && git commit -m 'YOLO!' && git push --force"
+	gimmedat = pull
+	gimmedis = fetch
+	blablahblah = commit
+	squishes = merge
+	thank = blame
+	hm = log
+	hmm = diff	
+	grafitti = tag
+	ghosts = commit --allow-empty -m "BOO!"
+	yoink = clone  
+	hidemysnacks = stash	
+	gimmesnacks = stash pop
+	wheremysnacks = stash list
+	doover = reset HEAD --hard	
+	ohshit = "!git hidemysnacks && git doover"
