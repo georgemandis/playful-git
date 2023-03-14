@@ -1,1 +1,1 @@
-# playful-git
+# Playful git aliases
