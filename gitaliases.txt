@@ -16,3 +16,4 @@
 	wheremysnacks = stash list
 	doover = reset HEAD --hard	
 	ohshit = "!git hidemysnacks && git doover"
+	whatamidoingagain = diff --cached
