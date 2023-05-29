@@ -23,5 +23,7 @@ A tongue-in-cheek list of helpful git aliases.
 |grafitti | tag|
 |ghosts | commit --allow-empty -m "BOO!"|
 |yoink | clone|
+|whatamidoingagain | diff --cached |
+
 
 PRs welcome!
